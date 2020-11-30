@@ -1,0 +1,13 @@
+{
+  "defaultProject": "ionic-example",
+  "projects": {
+    "ionic-example": {
+      "name": "ionic-example",
+      "integrations": {
+        "cordova": {}
+      },
+      "root": "apps/ionic-example",
+      "type": "angular"
+    }
+  }
+}
